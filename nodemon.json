@@ -1,0 +1,10 @@
+{
+    "ext": ".ts",
+    "ignore": [
+        "dist",
+        "node_modules"
+    ],
+    "execMap": {
+        "ts": "tsx"
+    }
+}
